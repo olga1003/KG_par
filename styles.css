@@ -1,0 +1,62 @@
+.heading-zag{
+    font-size: 32px;
+    font-family: "Verdana";
+}
+ h2{
+    font-size: 46px;
+    font-family: "Verdana";
+    text-align: center;
+}
+.bg{
+    margin:0 auto;
+    width:1120px;
+    
+   background:#C8D3D7;
+}
+nav{
+    font-size: 16px;
+}
+body {
+    text-indent: 40px;
+    background-image: url(bg.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    margin:0 auto;
+    width:1440px;
+    height:1024px;
+    background-repeat:no-repeat;
+    background-position:bottom;  
+    text-align:justify;
+    font-size: 16px;
+    font-family: "Verdana";
+}
+div.indent2{
+    margin-top:100px;
+}
+div.indent1{
+    margin-top:20px;
+}
+.hr-line {
+    margin: 20px 0;
+	padding: 0;
+	height: 6px;
+	border: none;
+	background:#98adb4;
+}
+
+.p-img {
+    text-align: center;
+}
+
+.online_3d_viewer {
+    display: block;
+    margin: auto;
+}
+.card{
+    background-color: #e4eaec;
+    font-size: 14px;
+    color: #373A3C;
+    text-align:justify;
+    width: 15rem;
+}
+
